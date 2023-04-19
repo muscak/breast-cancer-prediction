@@ -1,6 +1,6 @@
 # Breast Cancer Prediction
 
-The dataset is downloaded from [Kaggle](https://www.kaggle.com/datasets/vijayaadithyanvg/breast-cancer-prediction). It has 30 features, 1 label which contains if the cancer is benign, or malignant (cancer) and 569 samples. Some descriptive statistics can be found in the below table.
+The dataset is downloaded from [Kaggle](https://www.kaggle.com/datasets/vijayaadithyanvg/breast-cancer-prediction). It has 30 features, 1 label (diagnosis) which contains data about the patient if the cancer is benign, or malignant (cancer) and 569 samples. Some descriptive statistics can be found in the below table.
 
 
 |                         | count | min      | mean       | std        | max     |
