@@ -13,6 +13,7 @@ During this study, we evaluated the permormance of the below algorithms by using
 6. Support Vector Classifier (SVC)
 
 As you can see on the below image, the best mean accuracy was 97.82% and provided by SVC after scaling the features using `MinMaxScaler`.
+
 <img src='images/bcp-svc.png' align='center' alt='Algorithm Comparison for Brest Cancer Prediction'>
 
 Then we applied `GridSearchCV` to tune the hyperparamaters and we increased the accuracy score to 98.02% bu setting 'C' to 10, 'gamma' to 0.1 and 'kernel' to 'rbf'. We achieved 98.25% prediction accuracy score on test dataset by using these hyperparameters.
