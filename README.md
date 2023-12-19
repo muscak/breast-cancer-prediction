@@ -9,10 +9,13 @@ During this study, we evaluated the permormance of the below algorithms by using
 2. Linear Discriminant Analysis (LDA)
 3. $k$-Neighbors Classifier (KNN)
 4. Gaussian Naive Bayes (GNB)
-5. Decision Tree Classifier (CART)
+5. Decision Tree Classifier (DTC)
 6. Support Vector Classifier (SVC)
+7. Random Forest Classifier (RFC)
+8. AdaBoost Classifier (ABC)
+9. Gradient Boosting Classifier (GBC)
 
-As you can see on the below image, the best mean accuracy was 97.82% and provided by SVC after scaling the features using `MinMaxScaler`.
+As you can see on the below image, the best mean accuracy was 98.25% and provided by SVC after scaling the features using `MinMaxScaler`.
 
 <img src='images/bcp-svc.png' align='center' alt='Algorithm Comparison for Brest Cancer Prediction'>
 
